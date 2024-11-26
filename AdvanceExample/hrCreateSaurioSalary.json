@@ -1,0 +1,5 @@
+{
+    "method": "CREATE",
+    "path": ["payments","bob"],
+    "user": "hr"
+}
